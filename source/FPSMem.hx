@@ -93,7 +93,8 @@ class FPSMem extends TextField
 				}
 			}
 		text += "Grafex Engine v. " + data.EngineData.grafexEngineVersion + "\n" ;
-		}
+                text += "Rayman Mod v. " + data.EngineData.raymanmodver + "\n";
+ 		}
 
 		cacheCount = currentCount;
 	}

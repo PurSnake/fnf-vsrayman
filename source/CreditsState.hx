@@ -74,9 +74,28 @@ class CreditsState extends MusicBeatState
 			pushModCreditsToList(folder);
 		}
 		#end
-	
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+                     ['VS Rayman Legends team'],
+['Rocky','gamehold','Mod leader and Director','https://www.youtube.com/c/ИгровойХолодильник', '07D1FF'], //
+['PurSnake','snake','Programming','https://github.com/PurpleSSSnake', 'C549DB'],//
+['ENDER','ender','Charter','https://www.youtube.com/c/EnderNightFunkin', 'C549DB'],//
+['GrishaBrogame','grisha','Artist','https://youtube.com/channel/UCdXERuW2ThREYKrA09hMYxA', '00FF21'],//
+['Pexilo','pexylo','Charter','https://discordapp.com/users/725381401465323540', 'FF0000'],//
+['gka','gka','Artist','https://www.instagram.com/p/CbiQrk2I6MC/?igshid=YmMyMTA2M2Y=', '0094FF'],//
+['Baclan4ik','baclan4ik','Animator and Artist','https://discordapp.com/users/858307139033759784', '6600ff'],//
+['Yeliz','yeliz','Artist','https://youtube.com/channel/UCNBmQruPe325l4sWTVifjIg', 'FFFF00'],//
+['WhitePunk','whitepunk','Charter','https://www.youtube.com/channel/UCQ5M6Cp4SFPnVYgwo-yU2Fw', 'FF6A00'],//
+['Rambi','rambi','Artist','https://discordapp.com/users/764344495957344257', 'FFFF00'],//
+['HRistofor','hris','Musican','https://www.youtube.com/channel/UCrmmU6n4OZK_1fSB04ZJe3A', 'FF0000'],
+['Yaro','yaro','Musican','https://twitter.com/Yaro_h_lol', '4CFF00'],//
+['TimaRetro','tima','Coder','https://www.youtube.com/channel/UCl_bwkxh11TrjqGg8jWjUFQ', 'FF0000'],//
+['KM','mk','Musican','https://www.youtube.com/channel/UCCLkg-twMLujWsQCAy8z8nQ', '007F0E'],//
+['LenyaTheCat','lenya','Artist','https://www.youtube.com/channel/UCMQ8ExqI_qKt8a6OrhHGkbQ', 'B200FF'],//
+['mastex','mastex','Musican','https://www.youtube.com/watch?v=dQw4w9WgXcQ', 'FF0000'],//
+['Cross','cross','Artist','https://youtube.com/channel/UCfjM3NWdVFUikD-jYnSjHWQ','FFFFFF'],
+['Juztexd','juztexd','Artist','https://twitter.com/juztexd','FFD800'],
+                      [''],
 			['Graphex Engine by'],
 		    ['XaleTheCat','xale','Developer of Grafex Engine','https://github.com/XaleTheCat','f7a300'],
 		    ['PurSnake','snake','Developer of Grafex Engine','https://github.com/PurpleSSSnake', 'C549DB'],
