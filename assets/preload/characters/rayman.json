@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				-260
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				165,
+				-254
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-250
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-330
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				-240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				-280
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "pre-attack",
+			"loop": false,
+			"name": "Charge"
+		},
+		{
+			"offsets": [
+				233,
+				-265
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "attack",
+			"loop": false,
+			"name": "Attack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Rayman",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "rayman",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		95,
+		0
+	],
+	"camera_position": [
+		-90,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
