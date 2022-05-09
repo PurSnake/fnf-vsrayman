@@ -77,44 +77,23 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
                      ['VS Rayman Legends team'],
-['Rocky','gamehold','Mod leader and Director','https://www.youtube.com/c/ИгровойХолодильник', '07D1FF'], //
-['PurSnake','snake','Programming','https://github.com/PurpleSSSnake', 'C549DB'],//
-['ENDER','ender','Charter','https://www.youtube.com/c/EnderNightFunkin', 'C549DB'],//
-['GrishaBrogame','grisha','Artist','https://youtube.com/channel/UCdXERuW2ThREYKrA09hMYxA', '00FF21'],//
-['Pexilo','pexylo','Charter','https://discordapp.com/users/725381401465323540', 'FF0000'],//
-['gka','gka','Artist','https://www.instagram.com/p/CbiQrk2I6MC/?igshid=YmMyMTA2M2Y=', '0094FF'],//
-['Baclan4ik','baclan4ik','Animator and Artist','https://discordapp.com/users/858307139033759784', '6600ff'],//
-['Yeliz','yeliz','Artist','https://youtube.com/channel/UCNBmQruPe325l4sWTVifjIg', 'FFFF00'],//
-['WhitePunk','whitepunk','Charter','https://www.youtube.com/channel/UCQ5M6Cp4SFPnVYgwo-yU2Fw', 'FF6A00'],//
-['Rambi','rambi','Artist','https://discordapp.com/users/764344495957344257', 'FFFF00'],//
-['HRistofor','hris','Musican','https://www.youtube.com/channel/UCrmmU6n4OZK_1fSB04ZJe3A', 'FF0000'],
-['Yaro','yaro','Musican','https://twitter.com/Yaro_h_lol', '4CFF00'],//
-['TimaRetro','tima','Coder','https://www.youtube.com/channel/UCl_bwkxh11TrjqGg8jWjUFQ', 'FF0000'],//
-['KM','mk','Musican','https://www.youtube.com/channel/UCCLkg-twMLujWsQCAy8z8nQ', '007F0E'],//
-['LenyaTheCat','lenya','Artist','https://www.youtube.com/channel/UCMQ8ExqI_qKt8a6OrhHGkbQ', 'B200FF'],//
-['mastex','mastex','Musican','https://www.youtube.com/watch?v=dQw4w9WgXcQ', 'FF0000'],//
-['Cross','cross','Artist','https://youtube.com/channel/UCfjM3NWdVFUikD-jYnSjHWQ','FFFFFF'],
-['Juztexd','juztexd','Artist','https://twitter.com/juztexd','FFD800'],
-                      [''],
-			['Graphex Engine by'],
-		    ['XaleTheCat','xale','Developer of Grafex Engine','https://github.com/XaleTheCat','f7a300'],
-		    ['PurSnake','snake','Developer of Grafex Engine','https://github.com/PurpleSSSnake', 'C549DB'],
-            [''],
-            ['Psych Engine Team'],
-			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
-			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],
-			['bb-panzu',			'bb-panzu',			'Additional Programmer of Psych Engine',				'https://twitter.com/bbsub3',			'389A58'],
-			[''],
-			['Engine Contributors'],
-			['shubs',				'shubs',			'New Input System Programmer',							'https://twitter.com/yoshubs',			'4494E6'],
-			['SqirraRNG',			'gedehari',			'Chart Editor\'s Sound Waveform base',					'https://twitter.com/gedehari',			'FF9300'],
-			['iFlicky',				'iflicky',			'Delay/Combo Menu Song Composer\nand Dialogue Sounds',	'https://twitter.com/flicky_i',			'C549DB'],
-			[''],
-			["Funkin' Crew"],
-			['ninjamuffin99',		'ninjamuffin99',	"Programmer of Friday Night Funkin'",					'https://twitter.com/ninja_muffin99',	'F73838'],
-			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",						'https://twitter.com/PhantomArcade3K',	'FFBB1B'],
-			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",						'https://twitter.com/evilsk8r',			'53E52C'],
-			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3']
+        ['Rocky','gamehold','Mod leader and Director','https://www.youtube.com/c/ИгровойХолодильник', '07D1FF'], //
+        ['Ender Funkin','ender','Charter, Coder','https://www.youtube.com/c/EnderNightFunkin', 'C549DB'],//
+		['PurSnake','snake','Programming','https://github.com/PurpleSSSnake', 'C549DB'],//
+        ['GrishaBrogame','grisha','Artist','https://youtube.com/channel/UCdXERuW2ThREYKrA09hMYxA', '00FF21'],//
+        ['Pexilo','pexylo','Charter','https://discordapp.com/users/725381401465323540', 'FF0000'],//
+        ['gka','gka','Artist','https://www.instagram.com/p/CbiQrk2I6MC/?igshid=YmMyMTA2M2Y=', '0094FF'],//
+        ['WhitePunk','whitepunk','Charter','https://www.youtube.com/channel/UCQ5M6Cp4SFPnVYgwo-yU2Fw', 'FF6A00'],//
+        ['Rambi','rambi','Artist','https://discordapp.com/users/764344495957344257', 'FFFF00'],//
+        ['TimaRetro','tima','Coder','https://www.youtube.com/channel/UCl_bwkxh11TrjqGg8jWjUFQ', 'FF0000'],//
+        ['smilePDF','mk','Musican','https://www.youtube.com/channel/UCCLkg-twMLujWsQCAy8z8nQ', '007F0E'],//
+        ['LenyaTheCat','lenya','Artist','https://www.youtube.com/channel/UCMQ8ExqI_qKt8a6OrhHGkbQ', 'B200FF'],//
+        ['mastex','mastex','Musican','https://www.youtube.com/watch?v=dQw4w9WgXcQ', 'FF0000'],//
+        ['Cross','cross','Artist','https://youtube.com/channel/UCfjM3NWdVFUikD-jYnSjHWQ','FFFFFF'],
+        ['Juztexd','juztexd','Artist','https://twitter.com/juztexd','FFD800'],
+		['SMixels2','smixels2','Animator','https://www.youtube.com/c/SMixels2','5BC8FF'],
+		['Cesarsus','Cesarsus','Musican','https://www.youtube.com/channel/UCCic0XAnGqyhw_dQ2hQEVLg','00FF21'],
+		['RanMal','ran','Musican','https://twitter.com/RanMal300','00FFFF']
 		];
 		
 		for(i in pisspoop){
